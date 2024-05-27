@@ -1,0 +1,4 @@
+def string(str):
+    print(str*10)
+d=input("Enter the string:")
+string(d)
